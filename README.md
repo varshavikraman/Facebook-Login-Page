@@ -21,8 +21,9 @@ This project replicates the layout and design of the Facebook login page with re
 ---
 
 ## 📸 Screenshot
-(Add a screenshot here once you upload your project preview)  
+### Desktop View
+(Image/Screenshot from 2025-09-12 21-51-07.png)  
+### Mobile View
+(Image/Screenshot from 2025-09-12 21-51-27.png)
 
 ---
-
-## 📂 Project Structure
