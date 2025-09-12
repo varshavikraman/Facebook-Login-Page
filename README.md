@@ -20,10 +20,12 @@ This project replicates the layout and design of the Facebook login page with re
 
 ---
 
-## 📸 Screenshot
-### Desktop View
-(Image/Screenshot from 2025-09-12 21-51-07.png)  
-### Mobile View
-(Image/Screenshot from 2025-09-12 21-51-27.png)
+## 📸 Screenshot  
+
+### Desktop View  
+![Desktop Screenshot](Image/Screenshot from 2025-09-12 21-51-07.png)  
+
+### Mobile View  
+![Mobile Screenshot](Image/Screenshot from 2025-09-12 21-51-27.png)  
 
 ---
