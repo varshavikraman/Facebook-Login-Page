@@ -1,4 +1,4 @@
-# 📘 Facebook Login Page Clone
+# 📘 Facebook Login Page Clone — HTML + Tailwind
 
 A **Facebook-inspired login page** built using **HTML5** and **Tailwind CSS**.  
 This project replicates the layout and design of the Facebook login page with responsive styling, form elements, and footer links.  
@@ -17,6 +17,14 @@ This project replicates the layout and design of the Facebook login page with re
 ## 🛠️ Tech Stack
 - **HTML5** – Markup structure  
 - **Tailwind CSS** – Styling and responsiveness  
+
+---
+
+## ⚡ How to run  
+1. 📥 Clone the repo  
+   ```bash
+   git@github.com:varshavikraman/YouTube-Home-Page.git 
+2. Open `youtube.html` in your browser
 
 ---
 
