@@ -23,8 +23,8 @@ This project replicates the layout and design of the Facebook login page with re
 ## ⚡ How to run  
 1. 📥 Clone the repo  
    ```bash
-   git@github.com:varshavikraman/YouTube-Home-Page.git 
-2. Open `youtube.html` in your browser
+   git@github.com:varshavikraman/Facebook-Login-Page.git 
+2. Open `facebook.html` in your browser
 
 ---
 
